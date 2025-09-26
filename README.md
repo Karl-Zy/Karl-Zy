@@ -1,5 +1,5 @@
 # 💫 About Me:
- IT student from the Philippines .<br> Currently learning about back-end development.<br>Working on .Net & Javascript
+ IT student from the Philippines .<br> Currently learning about back-end development.<br>Working on .Net & Javascript <br> Freelance video & photo editor.
 
 
 # 💻 Tech Stack:
